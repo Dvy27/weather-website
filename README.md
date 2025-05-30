@@ -15,14 +15,4 @@ A simple and user-friendly weather web app that lets users check the current wea
 - CSS
 - JavaScript
 - OpenWeatherMap API
-
-## 📷 Demo
-
-![Demo Screenshot](screenshot.png)
-
-## 🧑‍💻 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+  # THANK YOU #
